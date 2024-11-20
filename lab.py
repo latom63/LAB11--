@@ -44,3 +44,4 @@ except KeyError as e:
     print(f"Помилка: Вказаного стовпця не знайдено у файлі ({e}).")
 except Exception as e:
     print(f"Невідома помилка: {e}")
+
